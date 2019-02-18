@@ -1,4 +1,4 @@
-# ProyectoApp
+# ProyectoApp (work-in-progress)
 
 Prueba juego Web/App  / Cordova Framework.
 
@@ -6,7 +6,7 @@ Prueba juego Web/App  / Cordova Framework.
 
 https://rodrigoezequiel.github.io/proyectoappweb/index.html#  (recomendado usar dispositivo movil).
 
-URL Acortada: bit.ly/2SIe4CG 
+URL Acortada: https://bit.ly/2SIe4CG 
 
 Preview de navegador/escritorio: WIP
 
