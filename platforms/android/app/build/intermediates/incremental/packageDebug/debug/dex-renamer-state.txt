@@ -1,0 +1,4 @@
+#Mon Dec 10 18:58:53 ART 2018
+base.0=C\:\\Users\\Rodri\\proyectoApp\\reciclando\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
