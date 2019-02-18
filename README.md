@@ -1,14 +1,18 @@
-# proyectoApp
-Prueba juego Web/App  / Cordova Framework
+# ProyectoApp
 
-Preview: https://rodrigoezequiel.github.io/proyectoappweb/index.html#  (recomendado usar dispositivo movil) 
-URL Acortada. https://bit.ly/2SIe4CG
-preview versiona navegador:TBA
+Prueba juego Web/App  / Cordova Framework.
 
-•Version de minima de Android 6.0
+## Previsualización:
 
-•Javascript
-•HTML5
-•CSS
-•NodeJS
-•CordovaFramework
+https://rodrigoezequiel.github.io/proyectoappweb/index.html#  (recomendado usar dispositivo movil).
+
+URL Acortada: bit.ly/2SIe4CG 
+
+Preview de navegador/escritorio: WIP
+
+* Version de minima de Android 6.0
+* Javascript
+* HTML5
+* CSS
+* NodeJS
+* CordovaFramework
